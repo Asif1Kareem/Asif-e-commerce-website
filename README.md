@@ -10,3 +10,4 @@ V-Shop is a responsive e-commerce web application developed using React. The pro
 - React
 - React Router
 - Redux Toolkit
+- 
